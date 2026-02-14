@@ -38,6 +38,8 @@ python fortigate_config_analyzer.py config.conf
 # HTML report (visual, color-coded)
 python fortigate_config_analyzer.py config.conf html
 
+<img width="2516" height="1058" alt="image" src="https://github.com/user-attachments/assets/35492c76-e62b-4913-9324-be2e321da15f" />
+
 # JSON report (for automation/CI/CD)
 python fortigate_config_analyzer.py config.conf json
 ```
