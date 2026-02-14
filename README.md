@@ -15,6 +15,9 @@ pip install pyyaml
 ```
 
 ### 2. Run the Analyzer
+```before running the script, run chmod to make the pythong file executable
+chmond +x fortigate_config_analyzer.py
+```
 ```bash
 python fortigate_config_analyzer.py your_config_file.conf
 ```
